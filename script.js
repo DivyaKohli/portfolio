@@ -55,7 +55,7 @@ ScrollReveal().reveal('.home-content p, .about-content', { origin: 'right' });
 
 // typed js
 const typed = new Typed('.multiple-text', {
-    strings: ['Data Analyst', 'Tableau Developer', 'Power BI Developer'],
+    strings: ['Data Analyst'],
     typeSpeed: 100,
     backSPeed: 100,
     backDelay: 1000,
